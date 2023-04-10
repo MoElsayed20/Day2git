@@ -8,6 +8,8 @@ public class Test {
 	public void getInfoar() {
 		System.out.println("Pushing code...");
 	}
+	
+String firstName="John";	
 }
 /**
 This is comming from a nother team member
